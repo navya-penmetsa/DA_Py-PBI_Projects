@@ -37,11 +37,3 @@ A collection of end-to-end data analytics projects featuring Python for preproce
 - Power BI: dynamic bar charts, heatmaps, customer segmentation
 
 ---
-
-### 4. [✅ NamasteKart Order Validator](namastekart_order_validator/) 
-> Automate validation of daily e-commerce order files for an online mart using Python.
-
-- Business rule checks: product ID match, correct amount (price × quantity), valid city, non-empty fields, and order date not in future  
-- Files are classified into `success` and `rejected` with error logs per order  
-- Generates a summary suitable for business email reporting  
-- Organized using a date-based folder structure
